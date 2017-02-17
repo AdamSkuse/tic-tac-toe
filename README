@@ -1,0 +1,18 @@
+Tic-tac-toe
+
+Tic-tac-toe in vanilla JS, HTML and CSS.
+
+v1 requirements
+
+- there should be a tic-tac-toe grid
+- players should be able to click on a square to add an 'X' or an 'O'
+
+v2 requirements
+- it should declare the winner if a player gets three of their symbols in a row
+- it should declare a draw if no player has won by the time the board is filled
+
+v3 requirements
+- it should log a history of the games
+
+v4 requirements
+- there should be an option to play against a computer opponent
