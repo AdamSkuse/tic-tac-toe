@@ -1,7 +1,17 @@
 /*
  * Styling
  */
+.container {
+  margin: 0 auto;
+  text-align: center;
+ }
 
+.col-1-2 {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  padding: 10px;
+}
 
 .gameboard {
     color: red;
@@ -11,6 +21,7 @@
     width: 300px;
     height: 300px;
     padding: 0px;
+    margin: 0 auto;
 }
 .cell {
     padding: 0px;
